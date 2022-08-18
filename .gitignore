@@ -1,3 +1,13 @@
-dataset/*
+# Folder
+dataset
+plot
 
+# hidden File
 .DS_Store
+*.env
+*.csv
+*.pkl
+*.xlsx
+*.sh
+
+.env/*
